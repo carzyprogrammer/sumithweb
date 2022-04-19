@@ -1,7 +1,8 @@
 body{
-    padding:20px;
-    background-image:url(back3.jpg);
-    height:1500px;
+
+    background-image: url(back3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
 }
 body{
   background-image: url("back3.jpg");
