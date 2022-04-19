@@ -4,7 +4,7 @@ body{
     height:1500px;
 }
 body{
-  background-image: url(back3.jpg);
+  background-image: url("back3.jpg");
   background-repeat: no-repeat;
   background-size: 100% 700px;
   
